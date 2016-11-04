@@ -1,0 +1,19 @@
+{
+	"name": "sw-serverrequest-bridge",
+	"version": "1.0.0",
+	"description": "Incomplete, partial utility to create a Node http ServerRequest event around a Fetch event/response pair.",
+	"main": "sw-serverrequest-bridge.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.eldergods.com/sw-serverrequrest-bridge"
+	},
+	"keywords": [],
+	"author": "rektide de la faye",
+	"license": "X11",
+	"dependencies": {
+		"node-web-streams": "^0.2.2"
+	}
+}
